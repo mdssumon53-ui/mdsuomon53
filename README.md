@@ -1,2 +1,2 @@
-MDSHOMON 
-mdsuomon53
+MD
+SHOMON
